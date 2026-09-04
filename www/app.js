@@ -1,0 +1,1 @@
+console.log('App gerado pelo AppForge Local');
